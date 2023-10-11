@@ -4,27 +4,39 @@
 
 ¡Bienvenido a Dimension V! Este es un emocionante videojuego 2D que combina elementos de plataformas, puzles y acción. Sumérgete en un mundo lleno de desafíos y aventuras mientras controlas a nuestro intrépido héroe en su búsqueda para llegar a la meta y recolectar valiosas monedas.
 
+
 ## Características Principales
 
-- **Mecánica de Invertir la Gravedad:** Experimenta una mecánica única que te permite cambiar la orientación de la gravedad para explorar diferentes pantallas y superar obstáculos.
+- **$\mathcal{\color{cyan}{Mecánica}}$ $\mathcal{\color{cyan}{de}}$ $\mathcal{\color{cyan}{Invertir}}$ $\mathcal{\color{cyan}{la}}$ $\mathcal{\color{cyan}{Gravedad:}}$** 🙃
 
-- **Niveles Intrincados:** Enfréntate a niveles cuidadosamente diseñados que desafiarán tus habilidades de plataformas y rompecabezas.
+  Experimenta una mecánica única que te permite cambiar la orientación de la gravedad para explorar diferentes pantallas y superar obstáculos.
 
-- **Enemigos y Proyectiles:** Evita enemigos y proyectiles hostiles que intentarán detenerte en tu camino hacia la victoria.
+- **$\mathcal{\color{cyan}{Niveles}}$ $\mathcal{\color{cyan}{Intrincados:}}$** 🧩 
 
-- **Recolección de Monedas:** ¡No olvides recoger todas las monedas que puedas para ganar puntos y desbloquear contenido adicional!
+    Enfréntate a niveles cuidadosamente diseñados que desafiarán tus habilidades de plataformas y rompecabezas.
 
-- **Ambiente Visualmente Atractivo:** Sumérgete en un mundo vibrante y colorido con gráficos 2D de alta calidad que hacen que la experiencia de juego sea aún más emocionante.
+- **$\mathcal{\color{cyan}{Enemigos}}$ $\mathcal{\color{cyan}{y}}$ $\mathcal{\color{cyan}{Proyectiles:}}$** 👾 
+
+    Evita enemigos y proyectiles hostiles que intentarán detenerte en tu camino hacia la victoria.
+
+- **$\mathcal{\color{cyan}{Recolección}}$ $\mathcal{\color{cyan}{de}}$ $\mathcal{\color{cyan}{Monedas:}}$** 📀 
+
+    ¡No olvides recoger todas las monedas que puedas para ganar puntos y desbloquear contenido adicional!
+
+- **$\mathcal{\color{cyan}{Ambiente}}$ $\mathcal{\color{cyan}{Visualmente}}$ $\mathcal{\color{cyan}{Atractivo:}}$** ✨ 
+
+    Sumérgete en un mundo vibrante y colorido con gráficos 2D de alta calidad que hacen que la experiencia de juego sea aún más emocionante.
+
 
 ## Controles
 
-- **Movimiento:** Utiliza las teclas A y D o las flechas izquierda y derecha del teclado para mover al personaje hacia la izquierda y derecha.
+- **$\text{\color{green}{Movimiento:}}$** Utiliza las teclas $\text{\color{green}{A}}$ y $\text{\color{green}{D}}$ o las flechas $\text{\color{green}{←}}$ y $\text{\color{green}{→}}$ del teclado para mover al personaje hacia la izquierda y derecha.
 
-- **Invertir Gravedad:** Usa las teclas W, D o la barra espaciadora (Space) para invertir la gravedad y cambiar la orientación del personaje.
+- **$\text{\color{orange}{Invertir Gravedad:}}$** Usa las teclas $\text{\color{orange}{W}}$, $\text{\color{orange}{D}}$ o la barra espaciadora $\text{\color{orange}{(Space)}}$ para invertir la gravedad y cambiar la orientación del personaje.
 
-- **Pausar Juego:** Pulsa la tecla "Esc" para pausar el juego y acceder al menú de pausa.
+- **$\text{\color{cyan}{Pausar Juego:}}$** Pulsa la tecla $\text{\color{cyan}{"Esc"}}$ para pausar el juego y acceder al menú de pausa.
 
-- **Navegación en Menús:** En los menús de inicio, pausa y game over, utiliza las teclas de flecha arriba y abajo para navegar entre las opciones. Presiona "Enter" para confirmar tus selecciones.
+- **$\text{\color{magenta}{Navegación en Menús:}}$** En los menús de Inicio, Pausa y Game Over, utiliza las teclas de flecha $\text{\color{magenta}{↑}}$ y $\text{\color{magenta}{↓}}$ para navegar entre las opciones. Presiona $\text{\color{violet}{"Enter"}}$ para confirmar tus selecciones.
 
 ## Capturas de Pantalla
 
