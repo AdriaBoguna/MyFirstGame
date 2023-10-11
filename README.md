@@ -1,8 +1,5 @@
-## $\textcolor{yellow}{dimension\ v}$
-
-$${\color{lightgreen} Dimension \space V}$$
-
-# Dimension V
+$${\color{lightgreen} DIMENSION \space V}$$ 
+#
 
 ## Descripción
 
