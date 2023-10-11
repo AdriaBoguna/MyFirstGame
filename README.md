@@ -1,4 +1,4 @@
-## $\textcolor{yellow}{DIMENSION\ V\ }$
+## $\textcolor{yellow}{DIMENSION\ V}$
 
 $${\color{lightgreen} Dimension \space V}$$
 
