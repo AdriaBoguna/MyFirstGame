@@ -1,4 +1,4 @@
-# $${\color{lightgreen} Dimension \space V}$$
+$${\color{lightgreen} Dimension \space V}$$
 
 ## Descripción
 
@@ -48,9 +48,9 @@ Si deseas contribuir al desarrollo de Dimension V, ¡estoy abiertos a colaborado
 
 ## Licencia
 
-Este juego se distribuye con Licencia libre.
-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Este juego se distribuye con Licencia libre.
 
 ## Contacto
 
