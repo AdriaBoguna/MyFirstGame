@@ -51,7 +51,7 @@
 ## Requisitos del Sistema
 
 - Unity 2022.3.9f1
-- [Otros requisitos del sistema, si los hay]
+- Sistema Operativo: Windows 10 o macOS 10.14
 
 ## Contribución
 
@@ -59,17 +59,18 @@ Si deseas contribuir al desarrollo de Dimension V, ¡estoy abiertos a colaborado
 
 ## Licencia
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
-Este juego se distribuye con Licencia libre.
+Este juego se distribuye con Licencia pública.
 
 ## Contacto
 
-- adria.bogunya.7e6@itb.cat
-- [Enlaces a redes sociales u otros canales de contacto]
+- adria.bogunat@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriaboguna/)
 
-¡Espero que disfrutes jugando a Dimension V tanto como yo disfrute creándolo!
+##
+¡Espero que disfrutes jugando a Dimension V tanto como yo disfrute creándolo! 🕹 
 
-¡Diviértete y buena suerte!
+¡Diviértete y buena suerte! 😎👍
 
 
