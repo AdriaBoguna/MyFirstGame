@@ -1,8 +1,12 @@
+## $\textcolor{yellow}{DIMENSION\ V\ }$
+
+$${\color{lightgreen} Dimension \space V}$$
+
 # Dimension V
 
 ## Descripción
 
-¡Bienvenido a $${\color{lightgreen} Dimension \space V}$$ ! Este es un emocionante videojuego 2D que combina elementos de plataformas, puzles y acción. Sumérgete en un mundo lleno de desafíos y aventuras mientras controlas a nuestro intrépido héroe en su búsqueda para llegar a la meta y recolectar valiosas monedas.
+¡Bienvenido a Dimension V! Este es un emocionante videojuego 2D que combina elementos de plataformas, puzles y acción. Sumérgete en un mundo lleno de desafíos y aventuras mientras controlas a nuestro intrépido héroe en su búsqueda para llegar a la meta y recolectar valiosas monedas.
 
 ## Características Principales
 
