@@ -1,4 +1,4 @@
-![Captura de Pantalla 1](/screenshots/screenshot3.png)
+![Captura de Pantalla 1](/screenshots/screenshot4.png)
 
 ## Descripción
 
