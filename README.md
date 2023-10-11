@@ -29,8 +29,8 @@ $${\color{lightgreen} DIMENSION \space V}$$
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](/screenshots/screenshot1.png)
-![Captura de Pantalla 2](/screenshots/screenshot2.png)
+![Captura de Pantalla 1](/screenshots/screenshot2.png)
+![Captura de Pantalla 2](/screenshots/screenshot1.png)
 
 ## Instalación
 
