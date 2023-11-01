@@ -32,25 +32,6 @@
 
 El juego presenta gráficos en 2D con un estilo artístico que combina elementos espaciales y toques de mazmorra para crear un ambiente único.
 
-## Género y Temática
-
-Género: Plataformas / Puzles
-
-Descripción Temática: "Dimension V" es un emocionante juego de plataformas que te desafía a enfrentar obstáculos y acertijos mientras navegas por un mundo espacial con un toque de mazmorra. La jugabilidad se centra en la inversión de gravedad, lo que añade una mecánica única al juego. A medida que avanzas a través de los niveles, te encontrarás con diversas situaciones:
-
-  1. Niveles de Aprendizaje: Comienza con la tarea de moverte hacia un lado para familiarizarte con los controles básicos.
-  
-  2. Evitar Obstáculos e Invertir la Gravedad: En este punto, debes esquivar obstáculos y aprender a invertir la gravedad para superar desafíos.
-  
-  3. Cambio de Dirección: Aquí, experimentarás un cambio de dirección que te obligará a adaptarte rápidamente.
-  
-  4. Evitar Proyectiles: Enfrenta la amenaza de proyectiles y demuestra tus habilidades de evasión.
-  
-  5. Evitar Enemigos: Desafía a un enemigo que intenta interceptarte mientras avanzas.
-  
-  6. Más Obstáculos: Nuevos obstáculos complican aún más tu misión.
-  
-  7. Siguiente Nivel: Supera todos los desafíos y avanza al siguiente nivel. La dificultad seguirá aumentando a medida que progresas.
 
 ## Controles
 
@@ -65,6 +46,26 @@ Descripción Temática: "Dimension V" es un emocionante juego de plataformas que
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 2](/screenshots/screenshot1.png)
+
+## Género y Temática
+
+**$\mathcal{\color{lightblue}{Género:}}$** Plataformas / Puzles
+
+**$\mathcal{\color{lightblue}{Temática:}}$** "Dimension V" es un emocionante juego de plataformas que te desafía a enfrentar obstáculos y acertijos mientras navegas por un mundo espacial con un toque de mazmorra. La jugabilidad se centra en la inversión de gravedad, lo que añade una mecánica única al juego. A medida que avanzas a través de los niveles, te encontrarás con diversas situaciones:
+
+  1. **$\mathcal{\color{lightgreen}{Niveles}}$ $\mathcal{\color{lightgreen}{de}}$ $\mathcal{\color{lightgreen}{Aprendizaje:}}$** Comienza con la tarea de moverte hacia un lado para familiarizarte con los controles básicos.
+  
+  2. **$\mathcal{\color{lightgreen}{Evitar}}$ $\mathcal{\color{lightgreen}{Obstáculos}}$ $\mathcal{\color{lightgreen}{e}}$ $\mathcal{\color{lightgreen}{Invertir}}$ $\mathcal{\color{lightgreen}{la}}$ $\mathcal{\color{lightgreen}{Gravedad:}}$** En este punto, debes esquivar obstáculos y aprender a invertir la gravedad para superar desafíos.
+  
+  3. **$\mathcal{\color{lightgreen}{Cambio}}$ $\mathcal{\color{lightgreen}{de}}$ $\mathcal{\color{lightgreen}{Dirección:}}$** Aquí, experimentarás un cambio de dirección que te obligará a adaptarte rápidamente.
+  
+  4. **$\mathcal{\color{lightgreen}{Evitar}}$ $\mathcal{\color{lightgreen}{Proyectiles:}}$** Enfrenta la amenaza de proyectiles y demuestra tus habilidades de evasión.
+  
+  5. **$\mathcal{\color{lightgreen}{Evitar}}$ $\mathcal{\color{lightgreen}{Enemigos:}}$** Desafía a un enemigo que intenta interceptarte mientras avanzas.
+  
+  6. **$\mathcal{\color{lightgreen}{Más}}$ $\mathcal{\color{lightgreen}{Obstáculos:}}$** Nuevos obstáculos complican aún más tu misión.
+  
+  7. **$\mathcal{\color{lightgreen}{Siguiente}}$ $\mathcal{\color{lightgreen}{Nivel:}}$** Supera todos los desafíos y avanza al siguiente nivel. La dificultad seguirá aumentando a medida que progresas.
 
 ## Instalación
 
