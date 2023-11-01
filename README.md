@@ -28,6 +28,30 @@
     Sumérgete en un mundo vibrante y colorido con gráficos 2D de alta calidad que hacen que la experiencia de juego sea aún más emocionante.
 
 
+## Estilo Visual
+
+El juego presenta gráficos en 2D con un estilo artístico que combina elementos espaciales y toques de mazmorra para crear un ambiente único.
+
+## Género y Temática
+
+Género: Plataformas / Puzles
+
+Descripción Temática: "Dimension V" es un emocionante juego de plataformas que te desafía a enfrentar obstáculos y acertijos mientras navegas por un mundo espacial con un toque de mazmorra. La jugabilidad se centra en la inversión de gravedad, lo que añade una mecánica única al juego. A medida que avanzas a través de los niveles, te encontrarás con diversas situaciones:
+
+  1. Niveles de Aprendizaje: Comienza con la tarea de moverte hacia un lado para familiarizarte con los controles básicos.
+  
+  2. Evitar Obstáculos e Invertir la Gravedad: En este punto, debes esquivar obstáculos y aprender a invertir la gravedad para superar desafíos.
+  
+  3. Cambio de Dirección: Aquí, experimentarás un cambio de dirección que te obligará a adaptarte rápidamente.
+  
+  4. Evitar Proyectiles: Enfrenta la amenaza de proyectiles y demuestra tus habilidades de evasión.
+  
+  5. Evitar Enemigos: Desafía a un enemigo que intenta interceptarte mientras avanzas.
+  
+  6. Más Obstáculos: Nuevos obstáculos complican aún más tu misión.
+  
+  7. Siguiente Nivel: Supera todos los desafíos y avanza al siguiente nivel. La dificultad seguirá aumentando a medida que progresas.
+
 ## Controles
 
 - **$\text{\color{green}{Movimiento:}}$** Utiliza las teclas $\text{\color{green}{A}}$ y $\text{\color{green}{D}}$ o las flechas $\text{\color{green}{←}}$ y $\text{\color{green}{→}}$ del teclado para mover al personaje hacia la izquierda y derecha.
