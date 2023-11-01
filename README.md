@@ -28,6 +28,11 @@
     Sumérgete en un mundo vibrante y colorido con gráficos 2D de alta calidad que hacen que la experiencia de juego sea aún más emocionante.
 
 
+## Estilo Visual
+
+El juego presenta gráficos en 2D con un estilo artístico que combina elementos espaciales y toques de mazmorra para crear un ambiente único.
+
+
 ## Controles
 
 - **$\text{\color{green}{Movimiento:}}$** Utiliza las teclas $\text{\color{green}{A}}$ y $\text{\color{green}{D}}$ o las flechas $\text{\color{green}{←}}$ y $\text{\color{green}{→}}$ del teclado para mover al personaje hacia la izquierda y derecha.
@@ -41,6 +46,12 @@
 ## Capturas de Pantalla
 
 ![Captura de Pantalla 2](/screenshots/screenshot1.png)
+
+## Género y Temática
+
+**$\mathcal{\color{lightblue}{Género:}}$** Plataformas / Puzles
+
+**$\mathcal{\color{lightblue}{Temática:}}$** Mundo espacial con un toque de mazmorra. 
 
 ## Instalación
 
